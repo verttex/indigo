@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image](/assets/images/prof.png)
 
 <p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -37,7 +37,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Companies I've Worked With</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
