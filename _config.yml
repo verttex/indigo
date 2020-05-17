@@ -41,9 +41,9 @@ twitter: verttex
 # pinterest: mypinterest
 # youtube: myyoutube
 # spotify: myspotify
-github: verttex
+# github: verttex
 # gitlab: mygitlab
-lastfm: verttex
+# lastfm: verttex
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 reddit: verttex
@@ -53,7 +53,7 @@ reddit: verttex
 # email: myemail@gmail.com
 
 authors:
-  johndoe:
+  jack:
     name: Jack D. Callahan
     bio: Brand and PR Strategist
     external-image: false
