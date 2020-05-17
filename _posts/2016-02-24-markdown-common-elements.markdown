@@ -1,15 +1,12 @@
 ---
 title: "Markdown Common Elements"
 layout: post
-date: 2016-02-24 22:44
+date: 2020-05-17 00:00
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- markdown
-- elements
-star: true
+hidden: true
 category: blog
-author: johndoe
+author: jack
 description: Markdown summary with different options
 ---
 

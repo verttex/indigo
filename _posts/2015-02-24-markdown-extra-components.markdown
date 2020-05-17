@@ -1,15 +1,12 @@
 ---
 title: "Markdown Extra Components"
 layout: post
-date: 2016-02-24 22:48
+date: 2020-05-17 00:00
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- markdown
-- components
-- extra
+hidden: true
 category: blog
-author: jamesfoster
+author: jack
 description: Markdown summary with different options
 ---
 
