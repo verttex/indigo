@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image](/assets/images/prof.png)
+![Profile Image](/assets/images/prof.png =560x)
 
 <p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
