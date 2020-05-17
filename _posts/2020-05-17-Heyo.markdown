@@ -13,9 +13,13 @@ Over this quarantine I built own this personal homepage as a professional landin
 
 *Backend*
 >Domain: Namecheap
+
 >Hosting: Github Pages
+
 >Backend: Jekyll
+
 >Theme: Indigo
+
 >Format: Markdown
 
 
