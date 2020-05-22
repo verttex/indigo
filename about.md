@@ -5,7 +5,7 @@ star: true
 ---
 <header class="animated"><img src="/assets/images/prof.png" /></header>
 
-# About
+## About
 Hi! I'm Jack and I'm a 22-year-old branding and PR strategist currently based out of beautiful Boulder, CO. 
 
 I've worked over the past 5 years to develop esports in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a /ton/ of events. 
