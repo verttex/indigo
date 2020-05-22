@@ -64,7 +64,7 @@ My skill-set develops over time to fit the needs of the various projects I work 
 - <span style="font-weight: bold">Leadership</span>
 	- Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
 - <span style="font-weight: bold">Moderation</span>
-	- Managed Discord servers with 3000+ users, [subreddits](https://reddit.com/r/cuboulder) 30,0000+ subscribers, and live chats with 60,000+ viewers.
+	- Discords with 3000+ users, [subreddits](https://reddit.com/r/cuboulder) with 30,0000+ subscribers, and live chats with 60,000+ viewers.
 - <span style="font-weight: bold">PM Methods</span>
 	- Worked with an assortment of software to maximize team workflow efficiency.
 - <span style="font-weight: bold">Social Media</span>
