@@ -124,6 +124,8 @@ compress_html:
       - development
       - stage
 
+markdown: CommonMarkGhPages
+
 exclude:
   [
     "travis.sh",
