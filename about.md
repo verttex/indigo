@@ -14,7 +14,7 @@ I was a co-creator of the student-run [PACG](https://www.espn.com/esports/story/
 These days I'm continuing to bring my expertise to a variety of brands within the gaming and esports industries. 
 
 
-Nice to meet you.
+[Nice to meet you.](mailto://jack@thewaylightattaches.com)
 
 ---
 
