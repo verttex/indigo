@@ -3,8 +3,6 @@ title: About
 layout: page
 star: true
 ---
-![Profile Image](/assets/images/prof.png)
-
 <header class="animated"><img src="/assets/images/prof.png" /></header>
 
 Hi! I'm Jack and I'm a 22-year-old branding and PR strategist currently based out of beautiful Boulder, CO. 
