@@ -11,7 +11,7 @@ These days I'm continuing to bring my expertise to a variety of brands within th
 
 Nice to meet you.
 
-
+---
 
 ## Mission
 <p style="text-align:center"><span class="evidence">Use the power of games to celebrate the human experience.</span></p>
@@ -50,3 +50,5 @@ In the world of esports and gaming, my experience in Public Relations, Strategy,
 	<li><a href="https://mainline.gg">Mainline</li>
 	<li><
 </ul>
+
+<div class="breaker"></div>
