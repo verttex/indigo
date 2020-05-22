@@ -33,10 +33,9 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 	<a href="https://www.dreamhack.com"><img src="/assets\images\companies/dreamhack.png" width="100" /></a>
 	<a href="https://spacestationgaming.com"><img src="/assets\images\companies/ssg.png" width="100" /></a>
 	<a href="https://mainline.gg"><img src="/assets\images\companies/ML.png" width="100" /></a>
-
 </p>
 
-
+<br>
 ---
 
 ## Skills
