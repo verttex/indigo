@@ -11,22 +11,21 @@ Games have the unique ability to connect people ignoring the traditional cultura
 Games are my life and I want to give everyone the opportunity to make a new friend, cheer for their favorite team, and break free of the everyday.
 
 ## Skills
-<ul class="skill-list">
-	<li>**Brand Strategy**</li>
-	<li>**Career Development** - Developed career-building initatives and personally mentored dozens of college students.</li>
-	<li>**Community Management** - Built up my collegiate gaming community by over 700% over 4 years.</li>
-	<li>**Communication**</li>
-	<li>**Content Management Systems** - Used Wordpress to build out various project websites.</li>
-	<li>**Design** - Created the original brand idenity of my gaming community and consulted on merchandise design.</li>
-	<li>**Event Planning**</li> - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets and venues.</li>
-	<li>**Knowledge Management** - Utilized Wiki.js to develop an knowledge-sharing platform for club leaders.</li>
-	<li>**Leadership** - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.</li>
-	<li>**Project Management** (*Wrike, Kanban*)</li>
-	<li>**Public Speaking**</li> 
-	<li>**SEO** (incl. *Google Analytics*)</li>
-	<li>**Social Media**</li>
-	<li>**Website Management** (*Domains, VPS, DNS, LAMP/LEMP*) - </li>
-</ul>
+**Brand Strategy**
+**Career Development** - Developed career-building initatives and personally mentored dozens of college students.
+**Community Management** - Built up my collegiate gaming community by over 700% over 4 years.
+**Communication**
+**Content Management Systems** - Used Wordpress to build out various project websites.
+**Design** - Created the original brand idenity of my gaming community and consulted on merchandise design.
+**Event Planning**</li> - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets and venues.
+**Knowledge Management** - Utilized Wiki.js to develop an knowledge-sharing platform for club leaders.
+**Leadership** - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
+**Project Management** (*Wrike, Kanban*)
+**Public Speaking**
+**SEO** (incl. *Google Analytics*)
+**Social Media**
+**Website Management** (*Domains, VPS, DNS, LAMP/LEMP*)
+
 
 <h2>Companies I've Worked With</h2>
 
