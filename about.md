@@ -3,7 +3,11 @@ title: About
 layout: page
 star: true
 ---
-<header class="animated"><img src="/assets/images/prof.png" /></header>
+<header class="animated">
+	<img src="/assets/images/prof.png" />
+	<figcaption class="caption">Main Stage @ Dreamhack Atlanta '18</figcaption>
+</header>
+
 
 ## About
 Hi! I'm Jack and I'm a 22-year-old branding and PR strategist currently based out of beautiful Boulder, CO. 
