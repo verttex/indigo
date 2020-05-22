@@ -57,13 +57,11 @@ My skill-set develops over time to fit the needs of the various projects I work 
 - <span style="font-weight: bold">Leadership</span>
 	- Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
 - <span style="font-weight: bold">Project Management</span>
-	- asdf
-<!---	- *Asanda, Git, Trello, Todoist, Wrike* --->
+	- Worked with an assortment of software to maximize team workflow efficiency.
 - <span style="font-weight: bold">Social Media</span>
 	- Managed social media accounts with a combined 15k+ followers
 - <span style="font-weight: bold">Websites</span>
-	- asdf
-<!---	- *CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀* --->
+	- Set up websites including domains, hosting, and platform development.
 
 In the world of esports and gaming, my experience in Public Relations, Brand Strategy, and Crisis Communications have been critical to the success of the brands I’ve worked with.
 
