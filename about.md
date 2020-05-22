@@ -4,37 +4,29 @@ layout: page
 ---
 ![Profile Image](/assets/images/prof.png)
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><strong>My mission is to use the power of games to celebrate the human experience.<strong></p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Games have the unique ability to connect people ignoring the traditional cultural barriers that are placed between them by society. Gender, race, age, status, language, disability, and so much more disappear when you escape into an in-depth world or a high-stakes competition.</p>
+
+<p>Games are my life and I want to give everyone the opportunity to make a new friend, cheer for their favorite team, and break free of the everyday.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Brand Strategy</li>
+	<li>Career Development - Developed career-building initatives and personally mentored dozens of college students.</li>
+	<li>Community Management - Built up my collegiate gaming community by over 700% over 4 years.</li>
+	<li>Communication</li>
+	<li>Content Management Systems - Used Wordpress to build out various project websites.</li>
+	<li>Design - Created the original brand idenity of my gaming community and consulted on merchandise design.</li>
+	<li>Event Planning</li> - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets and venues.</li>
+	<li>Knowledge Management - Utilized Wiki.js to develop an knowledge-sharing platform for club leaders.</li>
+	<li>Leadership - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.</li>
+	<li>Project Management (Wrike, Kanban)</li>
+	<li>Public Speaking</li> - 
+	<li>SEO (incl. Google Analytics)</li>
+	<li>Social Media</li>
+	<li>Website Management (Domains, VPS, DNS, LAMP/LEMP) - </li>
 </ul>
 
 <h2>Companies I've Worked With</h2>
