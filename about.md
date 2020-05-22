@@ -17,7 +17,7 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 - **Communication**
 - **Content Management Systems** - Used Wordpress to build out various project websites.
 - **Design** - Created the original brand idenity of my gaming community and consulted on merchandise design.
-- **Event Planning**</li> - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets and venues.
+- **Event Planning**</li> - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets/venues.
 - **Knowledge Management** - Utilized Wiki.js to develop an knowledge-sharing platform for club leaders.
 - **Leadership** - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
 - **Project Management** (*Wrike, Kanban*)
