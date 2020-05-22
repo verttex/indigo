@@ -16,7 +16,7 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 - **Communities** - Built up my collegiate gaming community by over 700% over 4 years.
 - **Communication**
 - **Design** - Created the original brand idenity of my gaming community and consulted on merchandise design.
-- **Events**</li> - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets/venues.
+- **Events** - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets/venues.
 - **Knowledge** - Utilized Wiki.js to develop an knowledge-sharing platform for club leaders.
 - **Leadership** - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
 - **Projects** (*Wrike, Kanban*)
