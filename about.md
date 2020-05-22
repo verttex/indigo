@@ -63,11 +63,13 @@ My skill-set develops over time to fit the needs of the various projects I work 
 	- Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.
 - <span style="font-weight: bold">Leadership</span>
 	- Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
+- <span style="font-weight: bold">Moderation</span>
+	- Managed Discord servers with 3000+ users, subreddits 30,0000+ subscribers, and live chats with 60,000+ viewers.
 - <span style="font-weight: bold">PM Methods</span>
 	- Worked with an assortment of software to maximize team workflow efficiency.
 - <span style="font-weight: bold">Social Media</span>
-	- Managed social media accounts with a combined 15k+ followers
-- <span style="font-weight: bold">Websites</span>
+	- Managed various accounts with a combined 15k+ followers and over 200k impressions per month.
+- <span style="font-weight: bold">Web</span>
 	- Set up websites including domains, hosting, and platform development.
 
 ---
