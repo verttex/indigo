@@ -44,16 +44,28 @@ My skill-set develops over time to fit the needs of the various projects I work 
 
 - <span style="font-weight: bold">Brands</span>
 	- Produced purpose-driven brand identities through industry and cultural positioning.
-- <span style="font-weight: bold">Career</span> - Developed career-building initatives and personally mentored dozens of college students.
-- <span style="font-weight: bold">Communities</span> - Built up my collegiate gaming community by over 700% over 4 years.
-- <span style="font-weight: bold">Communication</span> - Used crisis and conflict resolution skills to prevent fires before they happened.
-- <span style="font-weight: bold">Design</span> - Created the brand idenity of my gaming community and professionally consulted on merchandise.
-- <span style="font-weight: bold">Events</span> - Hosted dozens of events of various sizes with a myriad of budgets/venues.
-- <span style="font-weight: bold">Knowledge</span> - Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.
-- <span style="font-weight: bold">Leadership</span> - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
-- <span style="font-weight: bold">Project Management</span> *(Asanda, Git, Trello, Todoist, Wrike)*
-- <span style="font-weight: bold">Social Media</span> - Managed social media accounts with a combined 15k+ followers
-- <span style="font-weight: bold">Websites</span> *(CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀)*
+- <span style="font-weight: bold">Career</span>
+	- Developed career-building initatives and personally mentored dozens of college students.
+- <span style="font-weight: bold">Communities</span>
+	- Built up my collegiate gaming community by over 700% over 4 years.
+- <span style="font-weight: bold">Communication</span>
+	- Used crisis and conflict resolution skills to prevent fires before they happened.
+- <span style="font-weight: bold">Design</span>
+	- Created the brand idenity of my gaming community and professionally consulted on merchandise.
+- <span style="font-weight: bold">Events</span>
+	- Hosted dozens of events of various sizes with a myriad of budgets/venues.
+- <span style="font-weight: bold">Knowledge</span>
+	- Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.
+- <span style="font-weight: bold">Leadership</span>
+	- Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
+- <span style="font-weight: bold">Project Management</span>
+	- asdf
+	- *Asanda, Git, Trello, Todoist, Wrike*
+- <span style="font-weight: bold">Social Media</span>
+	- Managed social media accounts with a combined 15k+ followers
+- <span style="font-weight: bold">Websites</span>
+	- asdf
+	- *CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀*
 
 In the world of esports and gaming, my experience in Public Relations, Brand Strategy, and Crisis Communications have been critical to the success of the brands I’ve worked with.
 
