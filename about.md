@@ -52,11 +52,11 @@ My skill-set develops over time to fit the needs of the various projects I work 
 	- Created the brand idenity of my gaming community and professionally consulted on merchandise.
 - <span style="font-weight: bold">Events</span>
 	- Hosted dozens of events of various sizes with a myriad of budgets/venues.
-- <span style="font-weight: bold">Knowledge</span>
+- <span style="font-weight: bold">Knowledge Management</span>
 	- Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.
 - <span style="font-weight: bold">Leadership</span>
 	- Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
-- <span style="font-weight: bold">Project Management</span>
+- <span style="font-weight: bold">PM Methods</span>
 	- Worked with an assortment of software to maximize team workflow efficiency.
 - <span style="font-weight: bold">Social Media</span>
 	- Managed social media accounts with a combined 15k+ followers
