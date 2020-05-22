@@ -71,6 +71,6 @@ My skill-set develops over time to fit the needs of the various projects I work 
 
 Let me brag a bit, won't ya?
 
-[ESPN](https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league) / [Kotaku](https://compete.kotaku.com/why-was-the-pac-12-esports-league-killed-before-it-star-1824011578) / [Denver Post](https://www.denverpost.com/2020/01/29/esports-mainstream-colorado/) / [Colorado Daily](https://www.coloradodaily.com/2019/08/28/where-to-play-in-boulder-and-5-video-games-coming-out-this-fall/) / [CU Independent](https://cuindependent.com/2020/03/02/esports-inclusive-sports-summit/)
+<p style="text-align:center">[ESPN](https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league) / [Kotaku](https://compete.kotaku.com/why-was-the-pac-12-esports-league-killed-before-it-star-1824011578) / [Denver Post](https://www.denverpost.com/2020/01/29/esports-mainstream-colorado/) / [Colorado Daily](https://www.coloradodaily.com/2019/08/28/where-to-play-in-boulder-and-5-video-games-coming-out-this-fall/) / [CU Independent](https://cuindependent.com/2020/03/02/esports-inclusive-sports-summit/)</p>
 
 <div class="breaker"></div>
