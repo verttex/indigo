@@ -19,12 +19,12 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 - Communication
 - Design - Created the original brand idenity of my gaming community and consulted on merchandise design.
 - Events - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets/venues.
-- Knowledge - Utilized Wiki.js to develop an knowledge-sharing platform for club leaders.
+- Knowledge - Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.
 - Leadership - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
 - Projects (*Asanda, Git, Trello, Todoist, Wrike*)
 - Public Speaking
 - Social Media
-- Websites (CMS, DNS, LAMP/LEMP, SEO, VPS)
+- Websites (CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀)
 
 
 <h2>Companies I've Worked With</h2>
