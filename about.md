@@ -19,7 +19,7 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 - **Events** - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets/venues.
 - **Knowledge** - Utilized Wiki.js to develop an knowledge-sharing platform for club leaders.
 - **Leadership** - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
-- **Projects** (*Wrike, Kanban*)
+- **Projects** (*Asanda, Trello, Todoist, Wrike*)
 - **Public Speaking**
 - **SEO** (incl. *Google Analytics*)
 - **Social Media**
