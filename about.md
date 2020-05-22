@@ -63,6 +63,6 @@ My skill-set develops over time to fit the needs of the various projects I work 
 - <span style="font-weight: bold">Websites</span>
 	- Set up websites including domains, hosting, and platform development.
 
-In the world of esports and gaming, my experience in Public Relations, Brand Strategy, and Crisis Communications have been critical to the success of the brands I’ve worked with.
+In the world of esports and gaming, my experience in Public Relations and Crisis Communications have been critical to the success of the brands I’ve worked with.
 
 <div class="breaker"></div>
