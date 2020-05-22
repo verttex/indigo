@@ -23,7 +23,7 @@ layout: page
 	<li>Knowledge Management - Utilized Wiki.js to develop an knowledge-sharing platform for club leaders.</li>
 	<li>Leadership - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.</li>
 	<li>Project Management (Wrike, Kanban)</li>
-	<li>Public Speaking</li> - 
+	<li>Public Speaking</li> 
 	<li>SEO (incl. Google Analytics)</li>
 	<li>Social Media</li>
 	<li>Website Management (Domains, VPS, DNS, LAMP/LEMP) - </li>
