@@ -14,16 +14,16 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 
 ## Skills
 - <span style="font-weight: bold">Brands</span>
-- Career - Developed career-building initatives and personally mentored dozens of college students.
-- Communities - Built up my collegiate gaming community by over 700% over 4 years.
-- Communication
-- Design - Created the original brand idenity of my gaming community and consulted on merchandise design.
-- Events - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets/venues.
-- Knowledge - Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.
-- Leadership - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
-- Project Management *(Asanda, Git, Trello, Todoist, Wrike)*
-- Social Media
-- **Websites** *(CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀)*
+- <span style="font-weight: bold">Career</span> - Developed career-building initatives and personally mentored dozens of college students.
+- <span style="font-weight: bold">Communities</span> - Built up my collegiate gaming community by over 700% over 4 years.
+- <span style="font-weight: bold">Communication</span>
+- <span style="font-weight: bold">Design</span> - Created the original brand idenity of my gaming community and consulted on merchandise design.
+- <span style="font-weight: bold">Events</span> - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets/venues.
+- <span style="font-weight: bold">Knowledge</span> - Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.
+- <span style="font-weight: bold">Leadership</span> - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
+- <span style="font-weight: bold">Project Management</span> *(Asanda, Git, Trello, Todoist, Wrike)*
+- <span style="font-weight: bold">Social Media</span>
+- <span style="font-weight: bold">Websites</span> *(CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀)*
 
 
 <h2>Companies I've Worked With</h2>
