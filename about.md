@@ -76,6 +76,6 @@ My skill-set develops over time to fit the needs of the various projects I work 
 
 Let me brag a bit, won't ya?
 
-<p style="text-align:center"><a href=https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league>ESPN</> / <a href=https://compete.kotaku.com/why-was-the-pac-12-esports-league-killed-before-it-star-1824011578>Kotaku</a> / <a href=https://www.denverpost.com/2020/01/29/esports-mainstream-colorado/>Denver Post</a> / <a href=https://www.coloradodaily.com/2019/08/28/where-to-play-in-boulder-and-5-video-games-coming-out-this-fall/>Colorado Daily</a> / <a href=https://cuindependent.com/2020/03/02/esports-inclusive-sports-summit/>CU Independent</a> / <a href=https://www.youtube.com/watch?v=kwjQvt3PZsI>The Collegiate Esport Podcast</a></p>
+<p style="text-align:center"><a href=https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league>ESPN</a> / <a href=https://compete.kotaku.com/why-was-the-pac-12-esports-league-killed-before-it-star-1824011578>Kotaku</a> / <a href=https://www.denverpost.com/2020/01/29/esports-mainstream-colorado/>Denver Post</a> / <a href=https://www.coloradodaily.com/2019/08/28/where-to-play-in-boulder-and-5-video-games-coming-out-this-fall/>Colorado Daily</a> / <a href=https://cuindependent.com/2020/03/02/esports-inclusive-sports-summit/>CU Independent</a> / <a href=https://www.youtube.com/watch?v=kwjQvt3PZsI>The Collegiate Esport Podcast</a></p>
 
 <div class="breaker"></div>
