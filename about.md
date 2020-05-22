@@ -49,7 +49,6 @@ In the world of esports and gaming, my experience in Public Relations, Strategy,
 	<li><a href="https://www.dreamhack.com">Dreamhack</a></li>
 	<li><a href="https://spacestationgaming.com">Spacestation Gaming</a></li>
 	<li><a href="https://mainline.gg">Mainline</li>
-	<li><
 </ul>
 
 <div class="breaker"></div>
