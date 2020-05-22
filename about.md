@@ -50,15 +50,3 @@ In the world of esports and gaming, my experience in Public Relations, Strategy,
 	<li><a href="https://mainline.gg">Mainline</li>
 	<li><
 </ul>
-		
-		
-<h2>Brands I've Worked With</h2>
-
-<ul>
-	<li><a href="https://www.blizzard.com">ASUS ROG</a></li>
-	<li><a href="https://www.spaceproductions.org">Space Productions</a></li>
-	<li><a href="https://www.dreamhack.com">Dreamhack</a></li>
-	<li><a href="https://spacestationgaming.com">Spacestation Gaming</a></li>
-	<li><a href="https://mainline.gg">Mainline</li>
-	<li><
-</ul>
