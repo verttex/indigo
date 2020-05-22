@@ -13,18 +13,20 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 ---
 
 ## Skills
-- Brands
-- Career - Developed career-building initatives and personally mentored dozens of college students.
-- Communities - Built up my collegiate gaming community by over 700% over 4 years.
-- Communication
-- Design - Created the original brand idenity of my gaming community and consulted on merchandise design.
-- Events - Hosted dozens of events of various sizes (30->2k+) with a variety of budgets/venues.
-- Knowledge - Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.
-- Leadership - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
-- Projects (*Asanda, Git, Trello, Todoist, Wrike*)
-- Public Speaking
-- Social Media
-- Websites (CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀)
+<ul>
+<li>Brands</li>
+<li>Career - Developed career-building initatives and personally mentored dozens of college students.</li>
+<li>Communities - Built up my collegiate gaming community by over 700% over 4 years.</li>
+<li>Communication</li>
+<li>Design - Created the original brand idenity of my gaming community and consulted on merchandise design.</li>
+<li>Events - Hosted dozens of events of various sizes (30-&gt;2k+) with a variety of budgets/venues.</li>
+<li>Knowledge - Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.</li>
+<li>Leadership - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.</li>
+<li>Projects (<em>Asanda, Git, Trello, Todoist, Wrike</em>)</li>
+<li>Public Speaking</li>
+<li>Social Media</li>
+<li>Websites (CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀)</li>
+</ul>
 
 
 <h2>Companies I've Worked With</h2>
