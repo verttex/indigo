@@ -27,18 +27,13 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 
 ## Companies I've Worked For
 
-<ul>
-	<li><a href="https://www.blizzard.com">Blizzard Entertainment</a></li>
-	<li><a href="https://www.spaceproductions.org">Space Productions</a></li>
-	<li><a href="https://www.dreamhack.com">Dreamhack</a></li>
-	<li><a href="https://spacestationgaming.com">Spacestation Gaming</a></li>
-	<li><a href="https://mainline.gg">Mainline</a></li>
-</ul>
-
 <p float="left">
-  <img src="https://earthsky.org/upl/2018/12/comet-wirtanen-Jack-Fusco-dec-2018-Anza-Borrego-desert-CA-e1544613895713.jpg" width="100" />
-  <img src="https://earthsky.org/upl/2018/12/comet-wirtanen-Jack-Fusco-dec-2018-Anza-Borrego-desert-CA-e1544613895713.jpg" width="100" /> 
-  <img src="https://earthsky.org/upl/2018/12/comet-wirtanen-Jack-Fusco-dec-2018-Anza-Borrego-desert-CA-e1544613895713.jpg" width="100" />
+	<a href="https://www.blizzard.com"><img src="/assets\images\companies/blizz.png" width="100" /></a>
+	<a href="https://www.spaceproductions.org"><img src="/assets\images\companies/sp.png" width="100" /></a>
+	<a href="https://www.dreamhack.com"><img src="/assets\images\companies/dreamhack.png" width="100" /></a>
+	<a href="https://spacestationgaming.com"><img src="/assets\images\companies/ssg.png" width="100" /></a>
+	<a href="https://mainline.gg"><img src="/assets\images\companies/ml.png" width="100" /></a>
+
 </p>
 
 
@@ -65,12 +60,12 @@ My skill-set develops over time to fit the needs of the various projects I work 
 	- Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
 - <span style="font-weight: bold">Project Management</span>
 	- asdf
-	- *Asanda, Git, Trello, Todoist, Wrike*
+<!---	- *Asanda, Git, Trello, Todoist, Wrike* --->
 - <span style="font-weight: bold">Social Media</span>
 	- Managed social media accounts with a combined 15k+ followers
 - <span style="font-weight: bold">Websites</span>
 	- asdf
-	- *CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀*
+<!---	- *CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀* --->
 
 In the world of esports and gaming, my experience in Public Relations, Brand Strategy, and Crisis Communications have been critical to the success of the brands I’ve worked with.
 
