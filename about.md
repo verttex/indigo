@@ -13,6 +13,10 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 ---
 
 ## Skills
+My skill-set develops over time to fit the needs of the various projects I work on. I love to learn and come up with creative solutions to the unique problems that come up throughout a project’s lifetime.
+
+In the world of esports and gaming, my experience in Public Relations, Strategy, and Crisis Communications have been critical to the success of the brands I’ve worked with.
+
 - <span style="font-weight: bold">Brands</span>
 - <span style="font-weight: bold">Career</span> - Developed career-building initatives and personally mentored dozens of college students.
 - <span style="font-weight: bold">Communities</span> - Built up my collegiate gaming community by over 700% over 4 years.
