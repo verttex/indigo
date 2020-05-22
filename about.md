@@ -4,7 +4,17 @@ layout: page
 ---
 ![Profile Image](/assets/images/prof.png)
 
-<p style="text-align:center"><span class="evidence">My mission is to use the power of games to celebrate the human experience.</span></p>
+Hi! I'm Jack and I'm a 22-year-old branding and PR strategist currently based out of beautiful Boulder, CO. With deep roots in grassroots gaming communities, I've worked over the past 5 years to develop esports in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a /ton/ of events.
+
+These days I'm continuing to bring my expertise to a variety of brands within the gaming and esports industries. 
+
+
+Nice to meet you.
+
+
+
+## Mission
+<p style="text-align:center"><span class="evidence">Use the power of games to celebrate the human experience.</span></p>
 
 Games have the unique ability to connect people ignoring the traditional cultural barriers that are placed between them by society. Gender, race, age, status, language, disability, and so much more disappear when you escape into an in-depth world or a high-stakes competition.
 
@@ -30,10 +40,25 @@ In the world of esports and gaming, my experience in Public Relations, Strategy,
 - <span style="font-weight: bold">Websites</span> *(CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀)*
 
 
-<h2>Companies I've Worked With</h2>
+<h2>Companies I've Worked For</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://www.blizzard.com">Blizzard Entertainment</a></li>
+	<li><a href="https://www.spaceproductions.org">Space Productions</a></li>
+	<li><a href="https://www.dreamhack.com">Dreamhack</a></li>
+	<li><a href="https://spacestationgaming.com">Spacestation Gaming</a></li>
+	<li><a href="https://mainline.gg">Mainline</li>
+	<li><
+</ul>
+		
+		
+<h2>Brands I've Worked With</h2>
+
+<ul>
+	<li><a href="https://www.blizzard.com">ASUS ROG</a></li>
+	<li><a href="https://www.spaceproductions.org">Space Productions</a></li>
+	<li><a href="https://www.dreamhack.com">Dreamhack</a></li>
+	<li><a href="https://spacestationgaming.com">Spacestation Gaming</a></li>
+	<li><a href="https://mainline.gg">Mainline</li>
+	<li><
 </ul>
