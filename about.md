@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+star: true
 ---
 ![Profile Image](/assets/images/prof.png)
 
