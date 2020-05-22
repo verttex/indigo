@@ -14,7 +14,7 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 
 ## Skills
 <ul>
-<li><strong>Brands</strong></li>
+	<li><p><strong>Brands</strong></p></li>
 <li><strong>Career</strong> - Developed career-building initatives and personally mentored dozens of college students.</li>
 <li><strong>Communities</strong> - Built up my collegiate gaming community by over 700% over 4 years.</li>
 <li><strong>Communication</strong></li>
