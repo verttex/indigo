@@ -14,18 +14,18 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 
 ## Skills
 <ul>
-<li>Brands</li>
-<li>Career - Developed career-building initatives and personally mentored dozens of college students.</li>
-<li>Communities - Built up my collegiate gaming community by over 700% over 4 years.</li>
-<li>Communication</li>
-<li>Design - Created the original brand idenity of my gaming community and consulted on merchandise design.</li>
-<li>Events - Hosted dozens of events of various sizes (30-&gt;2k+) with a variety of budgets/venues.</li>
-<li>Knowledge - Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.</li>
-<li>Leadership - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.</li>
-<li>Projects (<em>Asanda, Git, Trello, Todoist, Wrike</em>)</li>
-<li>Public Speaking</li>
-<li>Social Media</li>
-<li>Websites (CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀)</li>
+<li><strong>Brands</strong></li>
+<li><strong>Career</strong> - Developed career-building initatives and personally mentored dozens of college students.</li>
+<li><strong>Communities</strong> - Built up my collegiate gaming community by over 700% over 4 years.</li>
+<li><strong>Communication</strong></li>
+<li><strong>Design</strong> - Created the original brand idenity of my gaming community and consulted on merchandise design.</li>
+<li><strong>Events</strong> - Hosted dozens of events of various sizes (30-&gt;2k+) with a variety of budgets/venues.</li>
+<li><strong>Knowledge</strong> - Utilized Wiki.js to develop a knowledge-sharing platform for club leaders.</li>
+<li><strong>Leadership</strong> - Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.</li>
+<li><strong>Projects</strong> (<em>Asanda, Git, Trello, Todoist, Wrike</em>)</li>
+<li><strong>Public Speaking</strong></li>
+<li><strong>Social Media</strong></li>
+<li><strong>Websites</strong> (CMS, DNS, LAMP/LEMP, SEO, VPS, this one 👀)</li>
 </ul>
 
 
