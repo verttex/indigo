@@ -7,7 +7,9 @@ star: true
 
 Hi! I'm Jack and I'm a 22-year-old branding and PR strategist currently based out of beautiful Boulder, CO. 
 
-I've worked over the past 5 years to develop esports in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a /ton/ of events. I was the co-creator of the student-run [PACG](https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league) which helped unite the schools within the PAC-12 and further collegiate esports.
+I've worked over the past 5 years to develop esports in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a /ton/ of events. 
+
+I was a co-creator of the student-run [PACG](https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league) which helped unite the schools within the PAC-12 and further collegiate esports.
 
 These days I'm continuing to bring my expertise to a variety of brands within the gaming and esports industries. 
 
@@ -62,5 +64,13 @@ My skill-set develops over time to fit the needs of the various projects I work 
 	- Managed social media accounts with a combined 15k+ followers
 - <span style="font-weight: bold">Websites</span>
 	- Set up websites including domains, hosting, and platform development.
+
+---
+
+## Coverage
+
+Let me brag a bit, won't ya?
+
+[ESPN](https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league) / [Kotaku](https://compete.kotaku.com/why-was-the-pac-12-esports-league-killed-before-it-star-1824011578) / [Denver Post](https://www.denverpost.com/2020/01/29/esports-mainstream-colorado/) / [Colorado Daily](https://www.coloradodaily.com/2019/08/28/where-to-play-in-boulder-and-5-video-games-coming-out-this-fall/) / [CU Independent](https://cuindependent.com/2020/03/02/esports-inclusive-sports-summit/)
 
 <div class="breaker"></div>
