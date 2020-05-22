@@ -7,7 +7,7 @@ star: true
 
 Hi! I'm Jack and I'm a 22-year-old branding and PR strategist currently based out of beautiful Boulder, CO. 
 
-I've worked over the past 5 years to develop esports in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a /ton/ of events.
+I've worked over the past 5 years to develop esports in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a /ton/ of events. I was the co-creator of the student-run [PACG](https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league) which helped unite the schools within the PAC-12 and further collegiate esports.
 
 These days I'm continuing to bring my expertise to a variety of brands within the gaming and esports industries. 
 
