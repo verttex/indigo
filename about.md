@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image](/assets/images/prof.png)
 
-<span class="evidence" align="center">My mission is to use the power of games to celebrate the human experience.</span>
+<span class="evidence" style="text-align:center">My mission is to use the power of games to celebrate the human experience.</span>
 
 Games have the unique ability to connect people ignoring the traditional cultural barriers that are placed between them by society. Gender, race, age, status, language, disability, and so much more disappear when you escape into an in-depth world or a high-stakes competition.
 
