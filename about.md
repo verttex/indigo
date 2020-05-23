@@ -42,6 +42,10 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 	<a href="https://mainline.gg"><img src="/assets\images\companies/ML.png" width="100" /></a>
 </div>
 
+## Brands I've Worked With
+
+<p style="text-align:center">ASUS ROG / CLG / Coca-cola / Echo Fox / Intel / Nvidia / Redbull / Riot Games / Steelseries / Twitch / US Army
+
 ---
 
 ## Skills
@@ -72,6 +76,16 @@ My skill-set develops over time to fit the needs of the various projects I work 
 - <span style="font-weight: bold">Web</span>
 	- Set up websites including domains, hosting, and platform development.
 
+
+---
+
+## Projects
+
+- <span style="font-weight: bold"><a href=https://lanfest.com/events/coronaclash>CoronaClash</a></span>
+	- Led the partnerships team for a Rocket League community charity event that raised over $6000 for coronavirus relief.
+- <span style="font-weight: bold"><a href=https://smash.gg/tournament/flatiron-3/details>Flatiron 3</a></span>
+	- Oversaw the venue and administration for one of the largest Smash events ever to come to Colorado.
+
 ---
 
 ## Coverage
@@ -80,4 +94,5 @@ Let me brag a bit, won't ya?
 
 <p style="text-align:center"><a href=https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league>ESPN</a> / <a href=https://compete.kotaku.com/why-was-the-pac-12-esports-league-killed-before-it-star-1824011578>Kotaku</a> / <a href=https://www.denverpost.com/2020/01/29/esports-mainstream-colorado/>Denver Post</a> / <a href=https://www.coloradodaily.com/2019/08/28/where-to-play-in-boulder-and-5-video-games-coming-out-this-fall/>Colorado Daily</a> / <a href=https://cuindependent.com/2020/03/02/esports-inclusive-sports-summit/>CU Independent</a> / <a href=https://www.youtube.com/watch?v=kwjQvt3PZsI>The Collegiate Esport Podcast</a></p>
 
+<p style="text-align:center">Panels: Intercollegiate Game Night, Dreamhack Atlanta '18</p>
 <div class="breaker"></div>
