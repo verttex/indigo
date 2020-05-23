@@ -42,9 +42,9 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 	<a href="https://mainline.gg"><img src="/assets\images\companies/ML.png" width="100" /></a>
 </div>
 
-## Brands I've Worked With
+###  Brands I've Worked With
 
-<p style="text-align:center">ASUS ROG / CLG / Coca-cola / Echo Fox / Intel / Nvidia / Redbull / Riot Games / Steelseries / Twitch / US Army
+<p style="text-align:center">ASUS ROG / CLG / Coca-Cola / Echo Fox / Intel / Nvidia / Redbull / Riot Games / Twitch / US Army</p>
 
 ---
 
