@@ -82,7 +82,7 @@ My skill-set develops over time to fit the needs of the various projects I work 
 ## Projects
 
 - <span style="font-weight: bold"><a href=https://lanfest.com/events/coronaclash>CoronaClash</a></span>
-	- Led the partnerships team for a Rocket League community charity event that raised over $6000 for coronavirus relief.
+	- Led the partnerships team for a Rocket League charity event that raised over $6000 for coronavirus relief.
 - <span style="font-weight: bold"><a href=https://smash.gg/tournament/flatiron-3/details>Flatiron 3</a></span>
 	- Oversaw the venue and administration for one of the largest Smash events ever to come to Colorado.
 
