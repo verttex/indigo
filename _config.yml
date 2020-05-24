@@ -12,9 +12,9 @@ picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: true
-resume-url: #
+resume: true
+resume-external: false
+resume-url: Resume(5.24.20).pdf
 
 url: https://jackdcallahan.com
 # your url: https://USERNAME.github.io
