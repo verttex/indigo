@@ -10,7 +10,7 @@ star: true
 
 
 ## About
-Hi! I'm Jack and I'm a 22-year-old branding and PR strategist currently based out of beautiful Boulder, CO. 
+Hi! I'm Jack and I'm a 23-year-old branding and PR strategist currently based out of beautiful Boulder, CO. 
 
 I've worked over the past 5 years to develop esports in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a /ton/ of events. 
 
@@ -18,8 +18,10 @@ I was a co-creator of the student-run [PACG](https://www.espn.com/esports/story/
 
 These days I'm continuing to bring my expertise to a variety of brands within the gaming and esports industries. 
 
+I currently work as a Community Manager for [Avakin Life](https://avakin.com/) with the rest of [Lockwood Publishing](https://lockwoodpublishing.com/). 
 
-[Nice to meet you.](mailto://jack@thewaylightattaches.com)
+
+[Nice to meet you.](mailto://hi@jackdcallahan.com)
 
 ---
 
@@ -36,10 +38,10 @@ Games are my life and I want to give everyone the opportunity to make a new frie
 
 <div class="companies">
 	<a href="https://www.blizzard.com"><img src="/assets\images\companies/blizz.png" width="100" /></a>
-	<a href="https://www.spaceproductions.org"><img src="/assets\images\companies/sp.png" width="100" /></a>
 	<a href="https://www.dreamhack.com"><img src="/assets\images\companies/dreamhack.png" width="100" /></a>
-	<a href="https://spacestationgaming.com"><img src="/assets\images\companies/ssg.png" width="100" /></a>
 	<a href="https://mainline.gg"><img src="/assets\images\companies/ML.png" width="100" /></a>
+	<a href="https://www.spaceproductions.org"><img src="/assets\images\companies/sp.png" width="100" /></a>
+	<a href="https://spacestationgaming.com"><img src="/assets\images\companies/ssg.png" width="100" /></a>
 </div>
 
 ###  Brands I've Worked With
