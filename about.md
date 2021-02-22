@@ -10,7 +10,7 @@ star: true
 
 
 ## About
-Hi! I'm Jack and I'm a 23-year-old branding and PR strategist currently based out of beautiful Boulder, CO. 
+Hi! I'm Jack and I'm a 23-year-old Community and PR strategist currently based out of beautiful Denver, CO. 
 
 I've worked over the past 5 years to develop esports in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a /ton/ of events. 
 
@@ -21,7 +21,7 @@ These days I'm continuing to bring my expertise to a variety of brands within th
 I currently work as a Community Manager for [Avakin Life](https://avakin.com/) with the rest of [Lockwood Publishing](https://lockwoodpublishing.com/). 
 
 
-[Nice to meet you.](mailto://hi@jackdcallahan.com)
+[Nice to meet you.](mailto://contact@jackdcallahan.com)
 
 ---
 
