@@ -18,9 +18,6 @@ I was a co-creator of the student-run [PACG](https://www.espn.com/esports/story/
 
 These days I'm continuing to bring my expertise to a variety of brands within the gaming and esports industries. 
 
-I currently work as a Community Manager for [Avakin Life](https://avakin.com/) with the rest of [Lockwood Publishing](https://lockwoodpublishing.com/). 
-
-
 [Nice to meet you.](mailto://contact@jackdcallahan.com)
 
 ---
