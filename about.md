@@ -62,6 +62,8 @@ My skill-set develops over time to fit the needs of the various projects that I 
 	- Used crisis and conflict resolution skills to prevent fires before they happened.
 - <span style="font-weight: bold">Communities</span>
 	- Built up my collegiate gaming community by over 700% over 4 years.
+- <span style="font-weight: bold">Data</span>
+	- Worked directly with Research teams to generate key insights into audiences.
 - <span style="font-weight: bold">Design</span>
 	- Created the brand idenity of my gaming community and professionally consulted on merchandise.
 - <span style="font-weight: bold">Events</span>
@@ -71,11 +73,11 @@ My skill-set develops over time to fit the needs of the various projects that I 
 - <span style="font-weight: bold">Leadership</span>
 	- Led a team of over 40, including delegating tasks, conflict resolution, and weekly meetings.
 - <span style="font-weight: bold">Moderation</span>
-	- Discords with 3000+ users, [subreddits](https://reddit.com/r/cuboulder) with 30,0000+ readers, and live chats with 60,000+ viewers.
+	- Discords with 7000+ users, [subreddits](https://reddit.com/r/cuboulder) with 30,0000+ readers, and live chats with 700,000+ viewers.
 - <span style="font-weight: bold">PM Methods</span>
 	- Worked with an assortment of software to maximize team workflow efficiency.
 - <span style="font-weight: bold">Social Media</span>
-	- Managed various accounts with a combined [15k+ followers](https://twitter.com/boulderesports) and over 200k impressions per month.
+	- Managed accounts on various platforms with a combined 1.5m+ followers while growing impressions by over 200%.
 - <span style="font-weight: bold">Web</span>
 	- Set up websites including domains, hosting, and platform development.
 
