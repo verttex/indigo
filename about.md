@@ -77,7 +77,7 @@ My skill-set develops over time to fit the needs of the various projects that I 
 - <span style="font-weight: bold">PM Methods</span>
 	- Worked with an assortment of software to maximize team workflow efficiency.
 - <span style="font-weight: bold">Social Media</span>
-	- Managed accounts on various platforms with a combined 1.5m+ followers while growing impressions by over 200%.
+	- Managed accounts on various platforms with 1.5m+ followers while growing impressions by over 200%.
 - <span style="font-weight: bold">Web</span>
 	- Set up websites including domains, hosting, and platform development.
 
