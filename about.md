@@ -10,15 +10,15 @@ star: true
 
 
 ## About
-Hi! I'm Jack and I'm a 23-year-old Community and PR strategist currently based out of beautiful Denver, CO. 
+Hi! I'm Jack and I'm a 24-year-old Community and PR strategist currently based out of beautiful Denver, CO. 
 
-I've worked over the past 5 years to develop communities esports in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a lot of events. 
+My gaming industry journey started by spending over 4 years developing gaming and esports communities in Colorado by: building my university's flagship [gaming club](https://cugaming.gg/), consulting with universities on gaming and esports, and hosting a lot of events. 
 
 I was a co-creator of the student-run [PACG](https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league) which helped unite the schools within the PAC-12 and further collegiate esports.
 
-These days I'm continuing to bring my expertise to a variety of brands within the gaming and esports industries, as well as non-endemic brands.
+I worked for Blizzard Entertainment for a few years supporting the collegiate gaming and esports scene, and then transitioning to Activision Blizzard Esports where I led the broadcast moderation team.
 
-I am currently seeking full-time roles - either located in the Greater Seattle Area or available remotely.
+Currently, I'm a Community Coordinator for Santa Monica Studio, supporting the launch of God of War on PC, and the launch of God of War Ragnarök later in 2022.
 
 [Nice to meet you.](mailto://contact@jackdcallahan.com)
 
