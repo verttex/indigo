@@ -16,9 +16,9 @@ My gaming industry journey started by spending over 4 years developing gaming an
 
 I was a co-creator of the student-run [PACG](https://www.espn.com/esports/story/_/id/22273704/pac-12-student-groups-form-independent-esports-league) which helped unite the schools within the PAC-12 and further collegiate esports.
 
-I worked for Blizzard Entertainment for a few years supporting the collegiate gaming and esports scene, and then transitioning to Activision Blizzard Esports where I led the broadcast moderation team.
+I worked for [Blizzard Entertainment](https://www.blizzard.com/en-us/) for a few years supporting the collegiate gaming and esports scene with [Tespa](https://www.tespa.org/), and then transitioned to Esports where I led the broadcast moderation team that was responsible for [Overwatch League](https://overwatchleague.com/en-us/), [Hearthstone Masters](https://playhearthstone.com/en-us/esports/), [BlizzConline](https://blizzcon.com/en-us), and other productions.
 
-Currently, I'm a Community Coordinator for Santa Monica Studio, supporting the launch of God of War on PC, and the launch of God of War Ragnarök later in 2022.
+Currently, I'm a Community Coordinator for [Santa Monica Studio](https://sms.playstation.com/), supporting the launch of [God of War on PC](https://store.steampowered.com/app/1593500/God_of_War/), and the launch of [God of War Ragnarök](https://www.playstation.com/en-us/games/god-of-war-ragnarok/) later in 2022.
 
 [Nice to meet you.](mailto://contact@jackdcallahan.com)
 
