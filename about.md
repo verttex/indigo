@@ -27,7 +27,7 @@ Currently, I'm a Community Coordinator for [Santa Monica Studio](https://sms.pla
 ## Mission
 <p style="text-align:center"><span class="evidence">Use the power of communities to celebrate the human experience.</span></p>
 
-Communities, and specifically gaming communities, have the unique ability to connect people ignoring the traditional cultural barriers that are placed between them by society. Gender, race, age, status, language, disability, and so much more disappear when you escape into an in-depth world or a high-stakes competition.
+Communities, and specifically gaming communities, have the unique ability to connect people by allowing us to ignore the traditional cultural barriers that are placed between us by society. Gender, race, age, status, language, disability, and so much more disappear when you escape into an in-depth world or a high-stakes competition.
 
 Games are my life and I want to give everyone the opportunity to make a new friend, cheer for their favorite team, and break free of the everyday.
 
